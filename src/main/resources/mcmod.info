@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zeldamod",
+  "name": "Zelda Mod",
+  "description": "The Legend of Zelda: Majora's Mask in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://zapcloudstudios.com/",
+  "updateUrl": "",
+  "authorList": ["eekysam"],
+  "credits": "ZapCloud Studios",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
